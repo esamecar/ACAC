@@ -2,7 +2,7 @@
 
 |    Avatar     |  Name   | Handle               | URL                          |
 |:-------------:|:-------:| -------------------- | ---------------------------- |
-| ![][esamecar] |  Marco  | @esamecar\@social.lol | https://social.lol/@esamecar |
+| ![][esamecar] |  Marco  | @esamecar&commat;social.lol | https://social.lol/@esamecar |
 |  ![][mihobu]  | Michael | @mihobu@social.lol   | https://social.lol/@mihobu   |
 |               |         |                      |                              |
 
