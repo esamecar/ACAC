@@ -2,7 +2,7 @@
 
 | Avatar              | Name                                                       | Handle                         |
 | :------------------ | ---------------------------------------------------------- | ------------------------------ |
-| ![][alexandra|width=100px]      | [Alexandra](https://social.lol/@alexandra)                 | @alexandra@social.lol          |
+| ![][alexandra]      | [Alexandra](https://social.lol/@alexandra)                 | @alexandra@social.lol          |
 | ![][andrea]         | [Andrea](https://social.lol/@andreab)                      | @andreab@social.lol            |
 | ![][andycarolan]    | [Andy Carolan](https://social.lol/@andycarolan)            | @andycarolan@social.lol        |
 | ![][andyn]          | [Andy](https://social.lol/@andyn)                          | @andyn@social.lol              |
