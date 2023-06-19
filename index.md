@@ -2,7 +2,7 @@
 
 | Avatar              | Name                                                       | Handle                         |
 | :------------------ | ---------------------------------------------------------- | ------------------------------ |
-| ![][alexandra]      | [Alexandra](https://social.lol/@alexandra)                 | @alexandra@social.lol          |
+| ![][alexandra|width=100px]      | [Alexandra](https://social.lol/@alexandra)                 | @alexandra@social.lol          |
 | ![][andrea]         | [Andrea](https://social.lol/@andreab)                      | @andreab@social.lol            |
 | ![][andycarolan]    | [Andy Carolan](https://social.lol/@andycarolan)            | @andycarolan@social.lol        |
 | ![][andyn]          | [Andy](https://social.lol/@andyn)                          | @andyn@social.lol              |
@@ -18,7 +18,7 @@
 | ![][tekphloyd]      | [tekphloyd](https://social.lol/@tekphloyd)                 | @tekphloyd@social.lol          |
 
 
-[esamecar]: https://media.social.lol/accounts/avatars/109/649/306/722/032/193/original/da31ecb2f69aa361.png =50x50
+[esamecar]: https://media.social.lol/accounts/avatars/109/649/306/722/032/193/original/da31ecb2f69aa361.png
 [mihobu]: https://media.social.lol/accounts/avatars/109/619/824/930/798/742/original/ca78bfa95d2825a2.png
 [alexandra]: https://media.social.lol/accounts/avatars/109/779/067/294/172/527/original/4aeb8601f23b72e0.png
 [andrea]: https://media.social.lol/accounts/avatars/109/789/892/022/936/666/original/98dd82476fee7f09.png
