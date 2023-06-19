@@ -14,6 +14,7 @@
 | ![][lubieniebieski] |     Adam Nowak      | @lubieniebieski@social.lol     | [social.lol/@lubieniebieski](https://social.lol/@lubieniebieski)         |
 | ![][maique]         |       maique        | @maique@social.lol             | [social.lol/@maique](https://social.lol/@maique)                         |
 | ![][mihobu]         |       Michael       | @mihobu@social.lol             | [social.lol/@mihobu](https://social.lol/@mihobu)                         |
+| ![][rb]             |         rb          | @rb@social.lol                 | [social.lol/@rb](https://social.lol/@rb)                                 |
 | ![][tekphloyd]      |      tekphloyd      | @tekphloyd@social.lol          | [social.lol/@tekphloyd](https://social.lol/@tekphloyd)                   |
 
 [esamecar]: https://media.social.lol/accounts/avatars/109/649/306/722/032/193/original/da31ecb2f69aa361.png 
@@ -28,4 +29,5 @@
 [hiro]: https://media.social.lol/accounts/avatars/110/313/991/960/773/003/original/d6fd8fd8e28e7590.png
 [lubieniebieski]: https://media.social.lol/accounts/avatars/109/714/665/825/852/984/original/6dd6320467f84a9a.png
 [maique]: https://media.social.lol/accounts/avatars/108/742/788/282/960/217/original/75de6a2a0add9364.png
+[rb]: https://media.social.lol/accounts/avatars/109/183/893/220/853/776/original/f8afc7203b6084c9.png
 [tekphloyd]: https://media.social.lol/accounts/avatars/109/269/705/863/044/046/original/293ae76459ab3ce5.png
