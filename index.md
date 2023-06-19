@@ -1,20 +1,20 @@
 # The Andy Carolan Avatar Club
 
-| Avatar              | Name                | Handle                         | URL                                    |
-| :------------------ | :-----------------: | ------------------------------ | -------------------------------------- |
-| ![][alexandra]      |      Alexandra      | @alexandra@social.lol          | https://social.lol/@alexandra          |
-| ![][andrea]         |       Andrea        | @andreab@social.lol            | https://social.lol/@andreab            |
-| ![][andycarolan]    |    Andy Carolan     | @andycarolan@social.lol        | https://social.lol/@andycarolan        |
-| ![][andyn]          |        Andy         | @andyn@social.lol              | https://social.lol/@andyn              |
-| ![][didier]         |  Didier Malenfant   | @didier@mastodon.gamedev.place | https://mastodon.gamedev.place/@didier |
-| ![][esamecar]       |        Marco        | @esamecar@social.lol           | https://social.lol/@esamecar           |
-| ![][furstenberg]    | Michael Fürstenberg | @furstenberg@social.lol        | https://social.lol/@furstenberg        |
-| ![][gabz]           |        gabz         | @gabz@social.lol               | https://social.lol/@gabz               |
-| ![][hiro]           |        Hiro         | @hiro@social.lol               | https://social.lol/@hiro               |
-| ![][lubieniebieski] |     Adam Nowak      | @lubieniebieski@social.lol     | https://social.lol/@lubieniebieski     |
-| ![][maique]         |       maique        | @maique@social.lol             | https://social.lol/@maique             |
-| ![][mihobu]         |       Michael       | @mihobu@social.lol             | https://social.lol/@mihobu             |
-| ![][tekphloyd]      |      tekphloyd      | @tekphloyd@social.lol          | https://social.lol/@tekphloyd          |
+| Avatar              | Name                | Handle                         | URL                                                                      |
+| :------------------ | :-----------------: | ------------------------------ | ------------------------------------------------------------------------ |
+| ![][alexandra]      |      Alexandra      | @alexandra@social.lol          | [social.lol/@alexandra](https://social.lol/@alexandra)                   |
+| ![][andrea]         |       Andrea        | @andreab@social.lol            | [social.lol/@andreab](https://social.lol/@andreab)                       |
+| ![][andycarolan]    |    Andy Carolan     | @andycarolan@social.lol        | [social.lol/@andycarolan](https://social.lol/@andycarolan)               |
+| ![][andyn]          |        Andy         | @andyn@social.lol              | [social.lol/@andyn](https://social.lol/@andyn)                           |
+| ![][didier]         |  Didier Malenfant   | @didier@mastodon.gamedev.place | [mastodon.gamedev.place/@didier](https://mastodon.gamedev.place/@didier) |
+| ![][esamecar]       |        Marco        | @esamecar@social.lol           | [social.lol/@esamecar](https://social.lol/@esamecar)                     |
+| ![][furstenberg]    | Michael Fürstenberg | @furstenberg@social.lol        | [social.lol/@furstenberg](https://social.lol/@furstenberg)               |
+| ![][gabz]           |        gabz         | @gabz@social.lol               | [social.lol/@gabz](https://social.lol/@gabz)                             |
+| ![][hiro]           |        Hiro         | @hiro@social.lol               | [social.lol/@hiro](https://social.lol/@hiro)                             |
+| ![][lubieniebieski] |     Adam Nowak      | @lubieniebieski@social.lol     | [social.lol/@lubieniebieski](https://social.lol/@lubieniebieski)         |
+| ![][maique]         |       maique        | @maique@social.lol             | [social.lol/@maique](https://social.lol/@maique)                         |
+| ![][mihobu]         |       Michael       | @mihobu@social.lol             | [social.lol/@mihobu](https://social.lol/@mihobu)                         |
+| ![][tekphloyd]      |      tekphloyd      | @tekphloyd@social.lol          | [social.lol/@tekphloyd](https://social.lol/@tekphloyd)                   |
 
 [esamecar]: https://media.social.lol/accounts/avatars/109/649/306/722/032/193/original/da31ecb2f69aa361.png 
 [mihobu]: https://media.social.lol/accounts/avatars/109/619/824/930/798/742/original/ca78bfa95d2825a2.png
