@@ -1,4 +1,4 @@
-# The Andy Carolan Avatar Club 🤘
+# The Andy Carolan Avatar Club on Mastodon 🤘
 
 | Avatar              | Name                                                       | Handle                         |
 | :------------------ | ---------------------------------------------------------- | ------------------------------ |
