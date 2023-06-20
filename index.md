@@ -6,29 +6,35 @@
 | ![][andrea]         | [Andrea](https://social.lol/@andreab)                      | @andreab@social.lol            |
 | ![][andycarolan]    | [Andy Carolan](https://social.lol/@andycarolan)            | @andycarolan@social.lol        |
 | ![][andyn]          | [Andy](https://social.lol/@andyn)                          | @andyn@social.lol              |
+| ![][anniegreens]    | [Apple Annie](https://social.lol/@anniegreens)             | @anniegreens@social.lol        |
 | ![][didier]         | [Didier Malenfant](https://mastodon.gamedev.place/@didier) | @didier@mastodon.gamedev.place |
 | ![][esamecar]       | [Marco](https://social.lol/@esamecar)                      | @esamecar@social.lol           |
 | ![][furstenberg]    | [Michael Fürstenberg](https://social.lol/@furstenberg)     | @furstenberg@social.lol        |
 | ![][gabz]           | [gabz](https://social.lol/@gabz)                           | @gabz@social.lol               |
 | ![][hiro]           | [Hiro](https://social.lol/@hiro)                           | @hiro@social.lol               |
+| ![][atog]           | [Koen](https://social.lol/@atog)                           | @atog@social.lol               |
 | ![][lubieniebieski] | [Adam Nowak](https://social.lol/@lubieniebieski)           | @lubieniebieski@social.lol     |
 | ![][maique]         | [maique](https://social.lol/@maique)                       | @maique@social.lol             |
 | ![][mihobu]         | [Michael](https://social.lol/@mihobu)                      | @mihobu@social.lol             |
 | ![][rb]             | [rb](https://social.lol/@rb)                               | @rb@social.lol                 |
+| ![][sara]           | [Sara Joy](https://social.lol/@sara)                       | @sara@social.lol               |
 | ![][tekphloyd]      | [tekphloyd](https://social.lol/@tekphloyd)                 | @tekphloyd@social.lol          |
 
-Welcome to the site of the ACAC, the [Andy Carolan](https://andycarolan.com/) Avatar Club. It all started with a phrase in my [Weekly Notes](https://week.esamecar.net/24): 
+---
+
+## Welcome
+
+Welcome to the site of the **ACAC**, the [**A**ndy **C**arolan](https://andycarolan.com/) **A**vatar **C**lub. It all started with a phrase in my [Weekly Notes](https://week.esamecar.net/24): 
  
 > I've finally joined the [Andy Carolan](https://social.lol/@andycarolan) Avatar Club.
 
-[Habib](https://social.lol/@habibcham@mastodon.social/110566879996115261) picked it up and stated the actually obvious:
- 
-ACAC is quite a cool name for a club 🤣
+[Habib](https://social.lol/@habibcham@mastodon.social/110566879996115261) picked it up and stated the actually obvious: **ACAC** is quite a cool name for a club 🤣
 
 So I couldn't help but set up this little page and include all those I follow on Mastodon with an avatar of Andy as founding members.
 
-But of course the club is open to all. If you want to be listed too, just let me know. The opposite is also true, of course:
-Let [me](https://esamecar.omg.lol) know if you want me to remove your listing!
+But of course the club is open to all. If you want to be listed too, just let me know. The opposite is also true, of course: Let [me](https://esamecar.omg.lol) know if you want me to remove your listing!
+
+---
 
 [esamecar]: https://media.social.lol/accounts/avatars/109/649/306/722/032/193/original/da31ecb2f69aa361.png
 [mihobu]: https://media.social.lol/accounts/avatars/109/619/824/930/798/742/original/ca78bfa95d2825a2.png
@@ -44,3 +50,7 @@ Let [me](https://esamecar.omg.lol) know if you want me to remove your listing!
 [maique]: https://media.social.lol/accounts/avatars/108/742/788/282/960/217/original/75de6a2a0add9364.png
 [rb]: https://media.social.lol/accounts/avatars/109/183/893/220/853/776/original/f8afc7203b6084c9.png
 [tekphloyd]: https://media.social.lol/accounts/avatars/109/269/705/863/044/046/original/293ae76459ab3ce5.png
+<!-- added 2023-06-20 -->
+[anniegreens]: https://media.social.lol/accounts/avatars/109/736/944/131/488/938/original/72b3a053b5a0a03f.png
+[atog]: https://media.social.lol/accounts/avatars/110/304/443/905/917/313/original/ef9009c2c2fd3449.jpeg
+[sara]: https://media.social.lol/accounts/avatars/109/601/657/094/469/488/original/26e99f5c9a4cb172.jpg
