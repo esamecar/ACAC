@@ -17,6 +17,7 @@
 | ![][maique]         | [maique](https://social.lol/@maique)                       | @maique@social.lol             |
 | ![][mihobu]         | [Michael](https://social.lol/@mihobu)                      | @mihobu@social.lol             |
 | ![][rb]             | [rb](https://social.lol/@rb)                               | @rb@social.lol                 |
+| ![][purplelime]     | [Sam](https://mastodon.social/@purplelime)                 | @purplelime@mastodon.social    |
 | ![][sara]           | [Sara Joy](https://social.lol/@sara)                       | @sara@social.lol               |
 | ![][tekphloyd]      | [tekphloyd](https://social.lol/@tekphloyd)                 | @tekphloyd@social.lol          |
 
@@ -54,3 +55,4 @@ But of course the club is open to all. If you want to be listed too, just let me
 [anniegreens]: https://media.social.lol/accounts/avatars/109/736/944/131/488/938/original/72b3a053b5a0a03f.png
 [atog]: https://media.social.lol/accounts/avatars/110/304/443/905/917/313/original/ef9009c2c2fd3449.jpeg
 [sara]: https://media.social.lol/accounts/avatars/109/601/657/094/469/488/original/26e99f5c9a4cb172.jpg
+[purplelime]: https://files.mastodon.social/accounts/avatars/109/245/771/360/027/790/original/0cae356d964a7f81.png
