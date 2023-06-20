@@ -17,6 +17,18 @@
 | ![][rb]             | [rb](https://social.lol/@rb)                               | @rb@social.lol                 |
 | ![][tekphloyd]      | [tekphloyd](https://social.lol/@tekphloyd)                 | @tekphloyd@social.lol          |
 
+Welcome to the site of the ACAC, the [Andy Carolan](https://andycarolan.com/) Avatar Club. It all started with a phrase in my [Weekly Notes](https://week.esamecar.net/24): 
+ 
+> I've finally joined the [Andy Carolan](https://social.lol/@andycarolan) Avatar Club.
+
+[Habib](https://social.lol/@habibcham@mastodon.social/110566879996115261) picked it up and stated the actually obvious:
+ 
+ACAC is quite a cool name for a club 🤣
+
+So I couldn't help but set up this little page and include all those I follow on Mastodon with an avatar of Andy as founding members.
+
+But of course the club is open to all. If you want to be listed too, just let me know. The opposite is also true, of course:
+Let [me](https://esamecar.omg.lol) know if you want me to remove your listing!
 
 [esamecar]: https://media.social.lol/accounts/avatars/109/649/306/722/032/193/original/da31ecb2f69aa361.png
 [mihobu]: https://media.social.lol/accounts/avatars/109/619/824/930/798/742/original/ca78bfa95d2825a2.png
