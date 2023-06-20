@@ -31,7 +31,7 @@ Welcome to the site of the **ACAC**, the [**A**ndy **C**arolan](https://andycaro
 
 [Habib](https://social.lol/@habibcham@mastodon.social/110566879996115261) picked it up and stated the actually obvious: **ACAC** is quite a cool name for a club 🤣
 
-So I couldn't help but set up this little site and add all those I follow on Mastodon and use an avatar created by Andy as founding members.
+So I couldn't help but set up this little site and add all the people I follow on Mastodon, with an avatar created by Andy, as founding members.
 
 But of course the club is open to all. If you want to be listed too, just let me know. The opposite is also true, of course: Let [me](https://esamecar.omg.lol) know if you want me to remove your listing!
 
