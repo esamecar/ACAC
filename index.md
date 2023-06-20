@@ -1,6 +1,6 @@
 <style>
-    /* Link to the CSS file */
-    @import url('styles.css');
+/* Link to the CSS file */
+@import url('styles.css');
 </style>
 
 # The Andy Carolan Avatar Club on Mastodon 🤘
