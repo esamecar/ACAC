@@ -1,8 +1,3 @@
-<style>
-/* Link to the CSS file */
-@import url('styles.css');
-</style>
-
 # The Andy Carolan Avatar Club on Mastodon 🤘
 
 | Avatar              | Name                                                       | Handle                         |
@@ -25,8 +20,6 @@
 | ![][purplelime]     | [Sam](https://mastodon.social/@purplelime)                 | @purplelime@mastodon.social    |
 | ![][sara]           | [Sara Joy](https://social.lol/@sara)                       | @sara@social.lol               |
 | ![][tekphloyd]      | [tekphloyd](https://social.lol/@tekphloyd)                 | @tekphloyd@social.lol          |
-
----
 
 ## Welcome
 
