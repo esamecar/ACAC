@@ -1,0 +1,7 @@
+/* styles.css */
+
+/* Apply the following style to all images within tables */
+table img {
+  max-width: 100px; /* Adjust the value as per your requirements */
+  height: auto; /* Maintain aspect ratio */
+}
