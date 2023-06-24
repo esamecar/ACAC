@@ -61,3 +61,4 @@ But of course the club is open to all. If you want to be listed too, just let me
 [mph]: https://media.social.lol/accounts/avatars/109/195/238/432/596/200/original/23b4d47286c2a8f0.jpeg
 <!-- added 2023-06-24 -->
 [box464]: https://files.mastodon.social/accounts/avatars/109/259/207/144/483/733/original/eac633f18633c528.png
+[clovertalk]: https://files.mastodon.social/accounts/avatars/000/582/037/original/62cdba26f27e515a.png
