@@ -13,6 +13,7 @@
 | ![][furstenberg]    | [Michael Fürstenberg](https://social.lol/@furstenberg)     | @furstenberg@social.lol        |
 | ![][gabz]           | [gabz](https://social.lol/@gabz)                           | @gabz@social.lol               |
 | ![][hiro]           | [Hiro](https://social.lol/@hiro)                           | @hiro@social.lol               |
+| ![][box464]         | [Jeff Sikes](https://mastodon.social/@box464)              | @box464@mastodon.social        |
 | ![][mph]            | [just mph](https://social.lol/@mph)                        | @mph@social.lol                |
 | ![][atog]           | [Koen](https://social.lol/@atog)                           | @atog@social.lol               |
 | ![][maique]         | [maique](https://social.lol/@maique)                       | @maique@social.lol             |
@@ -57,3 +58,5 @@ But of course the club is open to all. If you want to be listed too, just let me
 [purplelime]: https://files.mastodon.social/accounts/avatars/109/245/771/360/027/790/original/0cae356d964a7f81.png
 <!-- added 2023-06-22 -->
 [mph]: https://media.social.lol/accounts/avatars/109/195/238/432/596/200/original/23b4d47286c2a8f0.jpeg
+<!-- added 2023-06-24 -->
+[box464]: https://files.mastodon.social/accounts/avatars/109/259/207/144/483/733/original/eac633f18633c528.png
