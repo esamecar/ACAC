@@ -17,6 +17,7 @@
 | ![][mph]            | [just mph](https://social.lol/@mph)                        | @mph@social.lol                |
 | ![][atog]           | [Koen](https://social.lol/@atog)                           | @atog@social.lol               |
 | ![][maique]         | [maique](https://social.lol/@maique)                       | @maique@social.lol             |
+| ![][clovertalk]     | [Matthew Clover](https://mastodon.social/@clovertalk)      | @clovertalk@mastodon.social    |
 | ![][mihobu]         | [Michael](https://social.lol/@mihobu)                      | @mihobu@social.lol             |
 | ![][rb]             | [rb](https://social.lol/@rb)                               | @rb@social.lol                 |
 | ![][purplelime]     | [Sam](https://mastodon.social/@purplelime)                 | @purplelime@mastodon.social    |
