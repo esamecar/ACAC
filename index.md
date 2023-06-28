@@ -1,28 +1,29 @@
 # The Andy Carolan Avatar Club on Mastodon 🤘
 
-| Avatar              | Name                                                       | Handle                         |
-| :------------------ | ---------------------------------------------------------- | ------------------------------ |
-| ![][lubieniebieski] | [Adam Nowak](https://social.lol/@lubieniebieski)           | @lubieniebieski@social.lol     |
-| ![][alexandra]      | [Alexandra](https://social.lol/@alexandra)                 | @alexandra@social.lol          |
-| ![][andrea]         | [Andrea](https://social.lol/@andreab)                      | @andreab@social.lol            |
-| ![][andycarolan]    | [Andy Carolan](https://social.lol/@andycarolan)            | @andycarolan@social.lol        |
-| ![][andyn]          | [Andy](https://social.lol/@andyn)                          | @andyn@social.lol              |
-| ![][anniegreens]    | [Apple Annie](https://social.lol/@anniegreens)             | @anniegreens@social.lol        |
-| ![][didier]         | [Didier Malenfant](https://mastodon.gamedev.place/@didier) | @didier@mastodon.gamedev.place |
-| ![][esamecar]       | [Marco](https://social.lol/@esamecar)                      | @esamecar@social.lol           |
-| ![][furstenberg]    | [Michael Fürstenberg](https://social.lol/@furstenberg)     | @furstenberg@social.lol        |
-| ![][gabz]           | [gabz](https://social.lol/@gabz)                           | @gabz@social.lol               |
-| ![][hiro]           | [Hiro](https://social.lol/@hiro)                           | @hiro@social.lol               |
-| ![][box464]         | [Jeff Sikes](https://mastodon.social/@box464)              | @box464@mastodon.social        |
-| ![][mph]            | [just mph](https://social.lol/@mph)                        | @mph@social.lol                |
-| ![][atog]           | [Koen](https://social.lol/@atog)                           | @atog@social.lol               |
-| ![][maique]         | [maique](https://social.lol/@maique)                       | @maique@social.lol             |
-| ![][clovertalk]     | [Matthew Clover](https://mastodon.social/@clovertalk)      | @clovertalk@mastodon.social    |
-| ![][mihobu]         | [Michael](https://social.lol/@mihobu)                      | @mihobu@social.lol             |
-| ![][rb]             | [rb](https://social.lol/@rb)                               | @rb@social.lol                 |
-| ![][purplelime]     | [Sam](https://mastodon.social/@purplelime)                 | @purplelime@mastodon.social    |
-| ![][sara]           | [Sara Joy](https://social.lol/@sara)                       | @sara@social.lol               |
-| ![][tekphloyd]      | [tekphloyd](https://social.lol/@tekphloyd)                 | @tekphloyd@social.lol          |
+| Avatar               | Name                                                       | Handle                         |
+| :------------------- | ---------------------------------------------------------- | ------------------------------ |
+| ![][lubieniebieski]  | [Adam Nowak](https://social.lol/@lubieniebieski)           | @lubieniebieski@social.lol     |
+| ![][alexandra]       | [Alexandra](https://social.lol/@alexandra)                 | @alexandra@social.lol          |
+| ![][andrea]          | [Andrea](https://social.lol/@andreab)                      | @andreab@social.lol            |
+| ![][andycarolan]     | [Andy Carolan](https://social.lol/@andycarolan)            | @andycarolan@social.lol        |
+| ![][andyn]           | [Andy](https://social.lol/@andyn)                          | @andyn@social.lol              |
+| ![][anniegreens]     | [Apple Annie](https://social.lol/@anniegreens)             | @anniegreens@social.lol        |
+| ![][didier]          | [Didier Malenfant](https://mastodon.gamedev.place/@didier) | @didier@mastodon.gamedev.place |
+| ![][esamecar]        | [Marco](https://social.lol/@esamecar)                      | @esamecar@social.lol           |
+| ![][furstenberg]     | [Michael Fürstenberg](https://social.lol/@furstenberg)     | @furstenberg@social.lol        |
+| ![][gabz]            | [gabz](https://social.lol/@gabz)                           | @gabz@social.lol               |
+| ![][hiro]            | [Hiro](https://social.lol/@hiro)                           | @hiro@social.lol               |
+| ![][box464]          | [Jeff Sikes](https://mastodon.social/@box464)              | @box464@mastodon.social        |
+| ![][mph]             | [just mph](https://social.lol/@mph)                        | @mph@social.lol                |
+| ![][thatkruegergirl] | [Kerri Ann](https://appdot.net/@thatkruegergir)            | @thatkruegergirl@appdot.net    |
+| ![][atog]            | [Koen](https://social.lol/@atog)                           | @atog@social.lol               |
+| ![][maique]          | [maique](https://social.lol/@maique)                       | @maique@social.lol             |
+| ![][clovertalk]      | [Matthew Clover](https://mastodon.social/@clovertalk)      | @clovertalk@mastodon.social    |
+| ![][mihobu]          | [Michael](https://social.lol/@mihobu)                      | @mihobu@social.lol             |
+| ![][rb]              | [rb](https://social.lol/@rb)                               | @rb@social.lol                 |
+| ![][purplelime]      | [Sam](https://mastodon.social/@purplelime)                 | @purplelime@mastodon.social    |
+| ![][sara]            | [Sara Joy](https://social.lol/@sara)                       | @sara@social.lol               |
+| ![][tekphloyd]       | [tekphloyd](https://social.lol/@tekphloyd)                 | @tekphloyd@social.lol          |
 
 ## Welcome
 
@@ -42,7 +43,6 @@ But of course the club is open to all. If you want to be listed too, just let me
 [mihobu]: https://media.social.lol/accounts/avatars/109/619/824/930/798/742/original/ca78bfa95d2825a2.png
 [alexandra]: https://media.social.lol/accounts/avatars/109/779/067/294/172/527/original/4aeb8601f23b72e0.png
 [andrea]: https://media.social.lol/accounts/avatars/109/789/892/022/936/666/original/98dd82476fee7f09.png
-[andycarolan]: https://media.social.lol/accounts/avatars/109/381/075/265/447/863/original/87c69acf83488929.png
 [andyn]: https://media.social.lol/accounts/avatars/108/760/748/212/181/750/original/7470d96dcc3b94a7.jpeg
 [didier]: https://cdn.masto.host/mastodongamedevplace/accounts/avatars/109/380/881/617/106/122/original/20143635c3e96ec0.png
 [furstenberg]: https://media.social.lol/accounts/avatars/109/292/070/545/845/589/original/54350e00600f307f.jpeg
@@ -56,9 +56,14 @@ But of course the club is open to all. If you want to be listed too, just let me
 [anniegreens]: https://media.social.lol/accounts/avatars/109/736/944/131/488/938/original/72b3a053b5a0a03f.png
 [atog]: https://media.social.lol/accounts/avatars/110/304/443/905/917/313/original/ef9009c2c2fd3449.jpeg
 [sara]: https://media.social.lol/accounts/avatars/109/601/657/094/469/488/original/26e99f5c9a4cb172.jpg
-[purplelime]: https://files.mastodon.social/accounts/avatars/109/245/771/360/027/790/original/0cae356d964a7f81.png
 <!-- added 2023-06-22 -->
 [mph]: https://media.social.lol/accounts/avatars/109/195/238/432/596/200/original/23b4d47286c2a8f0.jpeg
 <!-- added 2023-06-24 -->
 [box464]: https://files.mastodon.social/accounts/avatars/109/259/207/144/483/733/original/eac633f18633c528.png
 [clovertalk]: https://files.mastodon.social/accounts/avatars/000/582/037/original/62cdba26f27e515a.png
+<!-- added 2023-08-28 -->
+[thatkruegergirl]: https://cdn.masto.host/appdotnet/accounts/avatars/108/194/004/311/697/720/original/a1c6836cf776dbc2.png
+<!-- updated 2023-08-28 -->
+[andycarolan]: https://media.social.lol/accounts/avatars/109/381/075/265/447/863/original/36eac8e7274dda11.png
+[purplelime]: https://files.mastodon.social/accounts/avatars/109/245/771/360/027/790/original/d34472f47d78f112.jpeg
+
