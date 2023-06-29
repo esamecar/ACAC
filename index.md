@@ -45,7 +45,6 @@ But of course the club is open to all. If you want to be listed too, just let me
 [alexandra]: https://media.social.lol/accounts/avatars/109/779/067/294/172/527/original/4aeb8601f23b72e0.png
 [andrea]: https://media.social.lol/accounts/avatars/109/789/892/022/936/666/original/98dd82476fee7f09.png
 [andyn]: https://media.social.lol/accounts/avatars/108/760/748/212/181/750/original/7470d96dcc3b94a7.jpeg
-[didier]: https://cdn.masto.host/mastodongamedevplace/accounts/avatars/109/380/881/617/106/122/original/20143635c3e96ec0.png
 [furstenberg]: https://media.social.lol/accounts/avatars/109/292/070/545/845/589/original/54350e00600f307f.jpeg
 [gabz]: https://media.social.lol/accounts/avatars/108/760/770/273/788/281/original/100dfc90c44fd70c.png
 [hiro]: https://media.social.lol/accounts/avatars/110/313/991/960/773/003/original/d6fd8fd8e28e7590.png
@@ -69,3 +68,5 @@ But of course the club is open to all. If you want to be listed too, just let me
 [purplelime]: https://files.mastodon.social/accounts/avatars/109/245/771/360/027/790/original/d34472f47d78f112.jpeg
 <!-- add 2023-06-29 -->
 [bryan]: https://cdn.masto.host/indwsocial/accounts/avatars/110/580/266/792/374/965/original/a5ebb63a1afee08d.png 
+<!-- update 2023-06-29 -->
+[didier]: https://cdn.masto.host/mastodongamedevplace/accounts/avatars/109/380/881/617/106/122/original/79116dd65498d5f9.png
