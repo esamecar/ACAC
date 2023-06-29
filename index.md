@@ -2,6 +2,7 @@
 
 | Avatar               | Name                                                       | Handle                         |
 | :------------------- | ---------------------------------------------------------- | ------------------------------ |
+| ![][adam]            | [Adam](https://social.lol/@adam)                           | @adam@social.lol               |
 | ![][lubieniebieski]  | [Adam Nowak](https://social.lol/@lubieniebieski)           | @lubieniebieski@social.lol     |
 | ![][alexandra]       | [Alexandra](https://social.lol/@alexandra)                 | @alexandra@social.lol          |
 | ![][andrea]          | [Andrea](https://social.lol/@andreab)                      | @andreab@social.lol            |
@@ -70,3 +71,5 @@ But of course the club is open to all. If you want to be listed too, just let me
 [bryan]: https://cdn.masto.host/indwsocial/accounts/avatars/110/580/266/792/374/965/original/a5ebb63a1afee08d.png 
 <!-- update 2023-06-29 -->
 [didier]: https://cdn.masto.host/mastodongamedevplace/accounts/avatars/109/380/881/617/106/122/original/79116dd65498d5f9.png
+<!-- add 2023-06-29 -->
+[adam]: https://media.social.lol/accounts/avatars/108/678/140/540/379/674/original/9ccb3fbe247c1f08.png
