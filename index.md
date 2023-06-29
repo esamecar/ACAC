@@ -8,6 +8,7 @@
 | ![][andycarolan]     | [Andy Carolan](https://social.lol/@andycarolan)            | @andycarolan@social.lol        |
 | ![][andyn]           | [Andy](https://social.lol/@andyn)                          | @andyn@social.lol              |
 | ![][anniegreens]     | [Apple Annie](https://social.lol/@anniegreens)             | @anniegreens@social.lol        |
+| ![][bryan]           | [Bryan](https://indw.social/@bryan)                        | @bryan@indw.social             |
 | ![][didier]          | [Didier Malenfant](https://mastodon.gamedev.place/@didier) | @didier@mastodon.gamedev.place |
 | ![][esamecar]        | [Marco](https://social.lol/@esamecar)                      | @esamecar@social.lol           |
 | ![][furstenberg]     | [Michael Fürstenberg](https://social.lol/@furstenberg)     | @furstenberg@social.lol        |
@@ -52,18 +53,19 @@ But of course the club is open to all. If you want to be listed too, just let me
 [maique]: https://media.social.lol/accounts/avatars/108/742/788/282/960/217/original/75de6a2a0add9364.png
 [rb]: https://media.social.lol/accounts/avatars/109/183/893/220/853/776/original/f8afc7203b6084c9.png
 [tekphloyd]: https://media.social.lol/accounts/avatars/109/269/705/863/044/046/original/293ae76459ab3ce5.png
-<!-- added 2023-06-20 -->
+<!-- add 2023-06-20 -->
 [anniegreens]: https://media.social.lol/accounts/avatars/109/736/944/131/488/938/original/72b3a053b5a0a03f.png
 [atog]: https://media.social.lol/accounts/avatars/110/304/443/905/917/313/original/ef9009c2c2fd3449.jpeg
 [sara]: https://media.social.lol/accounts/avatars/109/601/657/094/469/488/original/26e99f5c9a4cb172.jpg
-<!-- added 2023-06-22 -->
+<!-- add 2023-06-22 -->
 [mph]: https://media.social.lol/accounts/avatars/109/195/238/432/596/200/original/23b4d47286c2a8f0.jpeg
-<!-- added 2023-06-24 -->
+<!-- add 2023-06-24 -->
 [box464]: https://files.mastodon.social/accounts/avatars/109/259/207/144/483/733/original/eac633f18633c528.png
 [clovertalk]: https://files.mastodon.social/accounts/avatars/000/582/037/original/62cdba26f27e515a.png
-<!-- added 2023-08-28 -->
+<!-- add 2023-08-28 -->
 [thatkruegergirl]: https://cdn.masto.host/appdotnet/accounts/avatars/108/194/004/311/697/720/original/a1c6836cf776dbc2.png
-<!-- updated 2023-08-28 -->
+<!-- update 2023-08-28 -->
 [andycarolan]: https://media.social.lol/accounts/avatars/109/381/075/265/447/863/original/36eac8e7274dda11.png
 [purplelime]: https://files.mastodon.social/accounts/avatars/109/245/771/360/027/790/original/d34472f47d78f112.jpeg
-
+<!-- add 2023-06-29 -->
+[bryan]: https://cdn.masto.host/indwsocial/accounts/avatars/110/580/266/792/374/965/original/a5ebb63a1afee08d.png 
