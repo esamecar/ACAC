@@ -6,13 +6,11 @@
 | ![][lubieniebieski]  | [Adam Nowak](https://social.lol/@lubieniebieski)           | @lubieniebieski@social.lol     |
 | ![][alexandra]       | [Alexandra](https://social.lol/@alexandra)                 | @alexandra@social.lol          |
 | ![][andrea]          | [Andrea](https://social.lol/@andreab)                      | @andreab@social.lol            |
-| ![][andycarolan]     | [Andy Carolan](https://social.lol/@andycarolan)            | @andycarolan@social.lol        |
 | ![][andyn]           | [Andy](https://social.lol/@andyn)                          | @andyn@social.lol              |
+| ![][andycarolan]     | [Andy Carolan](https://social.lol/@andycarolan)            | @andycarolan@social.lol        |
 | ![][anniegreens]     | [Apple Annie](https://social.lol/@anniegreens)             | @anniegreens@social.lol        |
 | ![][bryan]           | [Bryan](https://indw.social/@bryan)                        | @bryan@indw.social             |
 | ![][didier]          | [Didier Malenfant](https://mastodon.gamedev.place/@didier) | @didier@mastodon.gamedev.place |
-| ![][esamecar]        | [Marco](https://social.lol/@esamecar)                      | @esamecar@social.lol           |
-| ![][furstenberg]     | [Michael Fürstenberg](https://social.lol/@furstenberg)     | @furstenberg@social.lol        |
 | ![][gabz]            | [gabz](https://social.lol/@gabz)                           | @gabz@social.lol               |
 | ![][hiro]            | [Hiro](https://social.lol/@hiro)                           | @hiro@social.lol               |
 | ![][box464]          | [Jeff Sikes](https://mastodon.social/@box464)              | @box464@mastodon.social        |
@@ -20,8 +18,10 @@
 | ![][thatkruegergirl] | [Kerri Ann](https://appdot.net/@thatkruegergirl)           | @thatkruegergirl@appdot.net    |
 | ![][atog]            | [Koen](https://social.lol/@atog)                           | @atog@social.lol               |
 | ![][maique]          | [maique](https://social.lol/@maique)                       | @maique@social.lol             |
+| ![][esamecar]        | [Marco](https://social.lol/@esamecar)                      | @esamecar@social.lol           |
 | ![][clovertalk]      | [Matthew Clover](https://mastodon.social/@clovertalk)      | @clovertalk@mastodon.social    |
 | ![][mihobu]          | [Michael](https://social.lol/@mihobu)                      | @mihobu@social.lol             |
+| ![][furstenberg]     | [Michael Fürstenberg](https://social.lol/@furstenberg)     | @furstenberg@social.lol        |
 | ![][otaviocc]        | [Otávio](https://social.lol/@otaviocc)                     | @otaviocc@social.lol           |
 | ![][rb]              | [rb](https://social.lol/@rb)                               | @rb@social.lol                 |
 | ![][purplelime]      | [Sam](https://mastodon.social/@purplelime)                 | @purplelime@mastodon.social    |
