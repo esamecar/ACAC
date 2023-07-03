@@ -26,6 +26,7 @@
 | ![][rb]              | [rb](https://social.lol/@rb)                               | @rb@social.lol                 |
 | ![][purplelime]      | [Sam](https://mastodon.social/@purplelime)                 | @purplelime@mastodon.social    |
 | ![][sara]            | [Sara Joy](https://social.lol/@sara)                       | @sara@social.lol               |
+| ![][sed]             | [sed](https://social.lol/@sed)                             | @sed@social.lol                |
 | ![][tekphloyd]       | [tekphloyd](https://social.lol/@tekphloyd)                 | @tekphloyd@social.lol          |
 
 ## Welcome
@@ -65,5 +66,6 @@ But of course the club is open to all. If you want to be listed too, just let me
 [purplelime]: https://files.mastodon.social/accounts/avatars/109/245/771/360/027/790/original/d34472f47d78f112.jpeg
 [rb]: https://media.social.lol/accounts/avatars/109/183/893/220/853/776/original/f8afc7203b6084c9.png
 [sara]: https://media.social.lol/accounts/avatars/109/601/657/094/469/488/original/26e99f5c9a4cb172.jpg
-[tekphloyd]: https://media.social.lol/accounts/avatars/109/269/705/863/044/046/original/293ae76459ab3ce5.png
+[sed]: https://media.social.lol/accounts/avatars/109/641/934/728/090/653/original/c6818d1e5f1d8030.png
+[tekphloyd]: https://media.social.lol/accounts/avatars/109/269/705/863/044/046/original/38f4d62242bdc29c.jpeg
 [thatkruegergirl]: https://cdn.masto.host/appdotnet/accounts/avatars/108/194/004/311/697/720/original/a1c6836cf776dbc2.png
