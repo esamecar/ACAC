@@ -53,7 +53,7 @@ But of course the club is open to all. If you want to be listed too, just let me
 [box464]: https://files.mastodon.social/accounts/avatars/109/259/207/144/483/733/original/eac633f18633c528.png
 [bryan]: https://cdn.masto.host/indwsocial/accounts/avatars/110/580/266/792/374/965/original/a5ebb63a1afee08d.png 
 [clovertalk]: https://files.mastodon.social/accounts/avatars/000/582/037/original/62cdba26f27e515a.png
-[didier]: https://cdn.masto.host/mastodongamedevplace/accounts/avatars/109/380/881/617/106/122/original/79116dd65498d5f9.png
+[didier]: https://cdn.masto.host/mastodongamedevplace/accounts/avatars/109/380/881/617/106/122/original/c6a1d561428625e2.png
 [esamecar]: https://media.social.lol/accounts/avatars/109/649/306/722/032/193/original/8f270484c6f09262.jpeg
 [furstenberg]: https://media.social.lol/accounts/avatars/109/292/070/545/845/589/original/78a6f3b0e8b70b91.png
 [gabz]: https://media.social.lol/accounts/avatars/108/760/770/273/788/281/original/629d5054fdd91c26.png
