@@ -59,7 +59,7 @@ But of course the club is open to all. If you want to be listed too, just let me
 [gabz]: https://media.social.lol/accounts/avatars/108/760/770/273/788/281/original/629d5054fdd91c26.png
 [hiro]: https://media.social.lol/accounts/avatars/110/313/991/960/773/003/original/d6fd8fd8e28e7590.png
 [lubieniebieski]: https://media.social.lol/accounts/avatars/109/714/665/825/852/984/original/6dd6320467f84a9a.png
-[maique]: https://media.social.lol/accounts/avatars/108/742/788/282/960/217/original/75de6a2a0add9364.png
+[maique]: https://media.social.lol/accounts/avatars/108/742/788/282/960/217/original/5a4106ac88653a34.jpeg
 [mihobu]: https://media.social.lol/accounts/avatars/109/619/824/930/798/742/original/ea1b0f3b673e134c.png
 [mph]: https://media.social.lol/accounts/avatars/109/195/238/432/596/200/original/23b4d47286c2a8f0.jpeg
 [otaviocc]: https://media.social.lol/accounts/avatars/109/580/944/375/344/260/original/d588e0adfce614d5.png
@@ -69,3 +69,4 @@ But of course the club is open to all. If you want to be listed too, just let me
 [sed]: https://media.social.lol/accounts/avatars/109/641/934/728/090/653/original/c6818d1e5f1d8030.png
 [tekphloyd]: https://media.social.lol/accounts/avatars/109/269/705/863/044/046/original/38f4d62242bdc29c.jpeg
 [thatkruegergirl]: https://cdn.masto.host/appdotnet/accounts/avatars/108/194/004/311/697/720/original/37e160c59440ddc4.png
+
