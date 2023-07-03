@@ -68,4 +68,4 @@ But of course the club is open to all. If you want to be listed too, just let me
 [sara]: https://media.social.lol/accounts/avatars/109/601/657/094/469/488/original/26e99f5c9a4cb172.jpg
 [sed]: https://media.social.lol/accounts/avatars/109/641/934/728/090/653/original/c6818d1e5f1d8030.png
 [tekphloyd]: https://media.social.lol/accounts/avatars/109/269/705/863/044/046/original/38f4d62242bdc29c.jpeg
-[thatkruegergirl]: https://cdn.masto.host/appdotnet/accounts/avatars/108/194/004/311/697/720/original/a1c6836cf776dbc2.png
+[thatkruegergirl]: https://cdn.masto.host/appdotnet/accounts/avatars/108/194/004/311/697/720/original/37e160c59440ddc4.png
