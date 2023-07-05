@@ -23,6 +23,7 @@
 | ![][mihobu]          | [Michael](https://social.lol/@mihobu)                      | @mihobu@social.lol             |
 | ![][furstenberg]     | [Michael Fürstenberg](https://social.lol/@furstenberg)     | @furstenberg@social.lol        |
 | ![][otaviocc]        | [Otávio](https://social.lol/@otaviocc)                     | @otaviocc@social.lol           |
+| ![][rameez]          | [rameez](https://social.lol/@rameez)                       | @rameez@social.lol             |
 | ![][rb]              | [rb](https://social.lol/@rb)                               | @rb@social.lol                 |
 | ![][purplelime]      | [Sam](https://mastodon.social/@purplelime)                 | @purplelime@mastodon.social    |
 | ![][sara]            | [Sara Joy](https://social.lol/@sara)                       | @sara@social.lol               |
@@ -64,6 +65,7 @@ But of course the club is open to all. If you want to be listed too, just let me
 [mph]: https://media.social.lol/accounts/avatars/109/195/238/432/596/200/original/23b4d47286c2a8f0.jpeg
 [otaviocc]: https://media.social.lol/accounts/avatars/109/580/944/375/344/260/original/d588e0adfce614d5.png
 [purplelime]: https://files.mastodon.social/accounts/avatars/109/245/771/360/027/790/original/d34472f47d78f112.jpeg
+[rameez]: https://media.social.lol/accounts/avatars/109/795/733/310/539/902/original/484fc6637a855f4e.png 
 [rb]: https://media.social.lol/accounts/avatars/109/183/893/220/853/776/original/f8afc7203b6084c9.png
 [sara]: https://media.social.lol/accounts/avatars/109/601/657/094/469/488/original/26e99f5c9a4cb172.jpg
 [sed]: https://media.social.lol/accounts/avatars/109/641/934/728/090/653/original/c6818d1e5f1d8030.png
