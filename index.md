@@ -12,6 +12,7 @@
 | ![][bryan]           | [Bryan](https://indw.social/@bryan)                        | @bryan@indw.social             |
 | ![][didier]          | [Didier Malenfant](https://mastodon.gamedev.place/@didier) | @didier@mastodon.gamedev.place |
 | ![][gabz]            | [gabz](https://social.lol/@gabz)                           | @gabz@social.lol               |
+| ![][habib]           | [Habib](https://mastodon.social/@habibcham)                | @habibcham@mastodon.social     |
 | ![][hiro]            | [Hiro](https://social.lol/@hiro)                           | @hiro@social.lol               |
 | ![][box464]          | [Jeff Sikes](https://mastodon.social/@box464)              | @box464@mastodon.social        |
 | ![][mph]             | [just mph](https://social.lol/@mph)                        | @mph@social.lol                |
@@ -58,6 +59,7 @@ But of course **the club is open to all**. If you want to be listed too, just le
 [esamecar]: https://media.social.lol/accounts/avatars/109/649/306/722/032/193/original/8f270484c6f09262.jpeg
 [furstenberg]: https://media.social.lol/accounts/avatars/109/292/070/545/845/589/original/78a6f3b0e8b70b91.png
 [gabz]: https://media.social.lol/accounts/avatars/108/760/770/273/788/281/original/629d5054fdd91c26.png
+[habib]: https://files.mastodon.social/accounts/avatars/109/670/583/684/319/565/original/e8f385bd748da9c2.png
 [hiro]: https://media.social.lol/accounts/avatars/110/313/991/960/773/003/original/d6fd8fd8e28e7590.png
 [lubieniebieski]: https://media.social.lol/accounts/avatars/109/714/665/825/852/984/original/6dd6320467f84a9a.png
 [maique]: https://media.social.lol/accounts/avatars/108/742/788/282/960/217/original/5a4106ac88653a34.jpeg
