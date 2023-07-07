@@ -10,6 +10,7 @@
 | ![][andycarolan]     | [Andy Carolan](https://social.lol/@andycarolan)            | @andycarolan@social.lol        |
 | ![][anniegreens]     | [Apple Annie](https://social.lol/@anniegreens)             | @anniegreens@social.lol        |
 | ![][bryan]           | [Bryan](https://indw.social/@bryan)                        | @bryan@indw.social             |
+| ![][ctt]             | [David Johnson](https://social.lol/@ctt)                   | @ctt@social.lol                |
 | ![][didier]          | [Didier Malenfant](https://mastodon.gamedev.place/@didier) | @didier@mastodon.gamedev.place |
 | ![][gabz]            | [gabz](https://social.lol/@gabz)                           | @gabz@social.lol               |
 | ![][habib]           | [Habib](https://mastodon.social/@habibcham)                | @habibcham@mastodon.social     |
@@ -55,6 +56,7 @@ But of course **the club is open to all**. If you want to be listed too, just le
 [box464]: https://files.mastodon.social/accounts/avatars/109/259/207/144/483/733/original/eac633f18633c528.png
 [bryan]: https://cdn.masto.host/indwsocial/accounts/avatars/110/580/266/792/374/965/original/a5ebb63a1afee08d.png 
 [clovertalk]: https://files.mastodon.social/accounts/avatars/000/582/037/original/62cdba26f27e515a.png
+[ctt]: https://media.social.lol/accounts/avatars/108/954/321/125/740/129/original/84403a59e48405ed.png
 [didier]: https://cdn.masto.host/mastodongamedevplace/accounts/avatars/109/380/881/617/106/122/original/c6a1d561428625e2.png
 [esamecar]: https://media.social.lol/accounts/avatars/109/649/306/722/032/193/original/8f270484c6f09262.jpeg
 [furstenberg]: https://media.social.lol/accounts/avatars/109/292/070/545/845/589/original/78a6f3b0e8b70b91.png
