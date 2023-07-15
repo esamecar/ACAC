@@ -22,7 +22,7 @@
 | ![][atog]            | [Koen](https://social.lol/@atog)                           | @atog@social.lol               |
 | ![][maique]          | [maique](https://social.lol/@maique)                       | @maique@social.lol             |
 | ![][esamecar]        | [Marco](https://social.lol/@esamecar)                      | @esamecar@social.lol           |
-| ![][muhh]            | [muhh](https://social.lol/@muhh)                           | @muhh@social.lol               |
+| ![][muhh]            | [Markus](https://social.lol/@muhh)                         | @muhh@social.lol               |
 | ![][clovertalk]      | [Matthew Clover](https://mastodon.social/@clovertalk)      | @clovertalk@mastodon.social    |
 | ![][mihobu]          | [Michael](https://social.lol/@mihobu)                      | @mihobu@social.lol             |
 | ![][furstenberg]     | [Michael Fürstenberg](https://social.lol/@furstenberg)     | @furstenberg@social.lol        |
