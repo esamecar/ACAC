@@ -48,8 +48,6 @@ So I couldn't help but set up this little site and add all the people I follow o
 
 But of course **the club is open to all**. If you want to be listed too, just let me know. The opposite is also true, of course: Let [me](https://esamecar.omg.lol) know if you want me to remove your profile!
 
----
-
 [adam]: https://media.social.lol/accounts/avatars/108/678/140/540/379/674/original/9ccb3fbe247c1f08.png
 [alexandra]: https://media.social.lol/accounts/avatars/109/779/067/294/172/527/original/43e9da0aa4cd309c.png
 [andrea]: https://media.social.lol/accounts/avatars/109/789/892/022/936/666/original/98dd82476fee7f09.png
