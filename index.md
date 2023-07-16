@@ -18,6 +18,7 @@
 | ![][hiro]            | [Hiro](https://social.lol/@hiro)                           | @hiro@social.lol               |
 | ![][box464]          | [Jeff Sikes](https://mastodon.social/@box464)              | @box464@mastodon.social        |
 | ![][mph]             | [just mph](https://social.lol/@mph)                        | @mph@social.lol                |
+| ![][itskevin]        | [Kevin](https://social.lol/@itskevin)                      | @itskevin@social.lol           |
 | ![][thatkruegergirl] | [Kerri Ann](https://appdot.net/@thatkruegergirl)           | @thatkruegergirl@appdot.net    |
 | ![][atog]            | [Koen](https://social.lol/@atog)                           | @atog@social.lol               |
 | ![][maique]          | [maique](https://social.lol/@maique)                       | @maique@social.lol             |
@@ -67,6 +68,7 @@ But of course **the club is open to all**. If you want to be listed too, just le
 [habib]: https://files.mastodon.social/accounts/avatars/109/670/583/684/319/565/original/e8f385bd748da9c2.png
 [hiro]: https://media.social.lol/accounts/avatars/110/313/991/960/773/003/original/d6fd8fd8e28e7590.png
 [lubieniebieski]: https://media.social.lol/accounts/avatars/109/714/665/825/852/984/original/6dd6320467f84a9a.png
+[itskevin]: https://media.social.lol/accounts/avatars/109/163/261/400/148/859/original/cc6096b6a12be5e2.jpg
 [maique]: https://media.social.lol/accounts/avatars/108/742/788/282/960/217/original/5a4106ac88653a34.jpeg
 [mihobu]: https://media.social.lol/accounts/avatars/109/619/824/930/798/742/original/ea1b0f3b673e134c.png
 [mph]: https://media.social.lol/accounts/avatars/109/195/238/432/596/200/original/23b4d47286c2a8f0.jpeg
