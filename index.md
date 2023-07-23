@@ -27,6 +27,7 @@
 | ![][clovertalk]      | [Matthew Clover](https://mastodon.social/@clovertalk)      | @clovertalk@mastodon.social    |
 | ![][mihobu]          | [Michael](https://social.lol/@mihobu)                      | @mihobu@social.lol             |
 | ![][furstenberg]     | [Michael Fürstenberg](https://social.lol/@furstenberg)     | @furstenberg@social.lol        |
+| ![][nicolas]         | [Nicolas Cropp](https://social.lol/@nicolas)               | @nicolas@social.lol            |
 | ![][otaviocc]        | [Otávio](https://social.lol/@otaviocc)                     | @otaviocc@social.lol           |
 | ![][rameez]          | [rameez](https://social.lol/@rameez)                       | @rameez@social.lol             |
 | ![][rb]              | [rb](https://social.lol/@rb)                               | @rb@social.lol                 |
@@ -71,6 +72,7 @@ But of course **the club is open to all**. If you want to be listed too, just le
 [mihobu]: https://media.social.lol/accounts/avatars/109/619/824/930/798/742/original/ea1b0f3b673e134c.png
 [mph]: https://media.social.lol/accounts/avatars/109/195/238/432/596/200/original/23b4d47286c2a8f0.jpeg
 [muhh]: https://media.social.lol/accounts/avatars/108/743/707/390/920/847/original/36a62d14e2c8c983.png
+[nicolas]: https://media.social.lol/accounts/avatars/109/641/133/331/377/829/original/2865d928e4c0b8cb.png
 [otaviocc]: https://media.social.lol/accounts/avatars/109/580/944/375/344/260/original/d588e0adfce614d5.png
 [purplelime]: https://files.mastodon.social/accounts/avatars/109/245/771/360/027/790/original/d34472f47d78f112.jpeg
 [rameez]: https://media.social.lol/accounts/avatars/109/795/733/310/539/902/original/484fc6637a855f4e.png 
@@ -80,4 +82,6 @@ But of course **the club is open to all**. If you want to be listed too, just le
 [sed]: https://media.social.lol/accounts/avatars/109/641/934/728/090/653/original/c6818d1e5f1d8030.png
 [tekphloyd]: https://media.social.lol/accounts/avatars/109/269/705/863/044/046/original/38f4d62242bdc29c.jpeg
 [thedadams]: https://cdn.masto.host/appdotnet/accounts/avatars/109/545/713/229/607/245/original/1a71668eb91937f7.png
-[thatkruegergirl]: https://cdn.masto.host/appdotnet/accounts/avatars/108/194/004/311/697/720/original/37e160c59440ddc4.png
+[thatkruegergirl]: https://cdn.masto.host/appdotnet/accounts/avatars/108/194/004/311/697/720/original/8f0d921628bf122f.png
+
+
