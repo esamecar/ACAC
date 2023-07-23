@@ -36,6 +36,7 @@
 | ![][skoobz]          | [Skoo.bz](https://social.lol/@skoobz)                      | @skoobz@social.lol             |
 | ![][sed]             | [sed](https://social.lol/@sed)                             | @sed@social.lol                |
 | ![][tekphloyd]       | [tekphloyd](https://social.lol/@tekphloyd)                 | @tekphloyd@social.lol          |
+| ![][william]         | [William](https://social.lol/@william)                     | @william@social.lol            |
 
 ## Welcome
 
@@ -83,5 +84,5 @@ But of course **the club is open to all**. If you want to be listed too, just le
 [tekphloyd]: https://media.social.lol/accounts/avatars/109/269/705/863/044/046/original/38f4d62242bdc29c.jpeg
 [thedadams]: https://cdn.masto.host/appdotnet/accounts/avatars/109/545/713/229/607/245/original/1a71668eb91937f7.png
 [thatkruegergirl]: https://cdn.masto.host/appdotnet/accounts/avatars/108/194/004/311/697/720/original/8f0d921628bf122f.png
-
+[william]: https://media.social.lol/accounts/avatars/110/625/401/031/486/117/original/12e316ca2a55d237.png
 
