@@ -32,7 +32,7 @@
 | ![][rameez]          | [rameez](https://social.lol/@rameez)                       | @rameez@social.lol             |
 | ![][rb]              | [rb](https://social.lol/@rb)                               | @rb@social.lol                 |
 | ![][purplelime]      | [Sam](https://mastodon.social/@purplelime)                 | @purplelime@mastodon.social    |
-| ![][sara]            | [Sara Joy](https://social.lol/@sara)                       | @sara@social.lol               |
+| ![][sara]            | [Sara Joy](https://front-end.social/@sarajw)               | @sarajw@front-end.social       |
 | ![][skoobz]          | [Skoo.bz](https://social.lol/@skoobz)                      | @skoobz@social.lol             |
 | ![][sed]             | [sed](https://social.lol/@sed)                             | @sed@social.lol                |
 | ![][tekphloyd]       | [tekphloyd](https://social.lol/@tekphloyd)                 | @tekphloyd@social.lol          |
