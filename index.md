@@ -34,8 +34,8 @@
 | ![][rb]              | [rb](https://social.lol/@rb)                               | @rb@social.lol                 |
 | ![][purplelime]      | [Sam](https://mastodon.social/@purplelime)                 | @purplelime@mastodon.social    |
 | ![][sara]            | [Sara Joy](https://front-end.social/@sarajw)               | @sarajw@front-end.social       |
-| ![][skoobz]          | [Skoo.bz](https://social.lol/@skoobz)                      | @skoobz@social.lol             |
 | ![][sed]             | [sed](https://social.lol/@sed)                             | @sed@social.lol                |
+| ![][skoobz]          | [Skoo.bz](https://social.lol/@skoobz)                      | @skoobz@social.lol             |
 | ![][tekphloyd]       | [tekphloyd](https://social.lol/@tekphloyd)                 | @tekphloyd@social.lol          |
 | ![][william]         | [William](https://social.lol/@william)                     | @william@social.lol            |
 
@@ -58,7 +58,7 @@ But of course **the club is open to all**. If you want to be listed too, just le
 [andyn]: https://media.social.lol/accounts/avatars/108/760/748/212/181/750/original/7470d96dcc3b94a7.jpeg
 [anniegreens]: https://media.social.lol/accounts/avatars/109/736/944/131/488/938/original/72b3a053b5a0a03f.png
 [atog]: https://media.social.lol/accounts/avatars/110/304/443/905/917/313/original/ef9009c2c2fd3449.jpeg
-[box464]: https://files.mastodon.social/accounts/avatars/109/259/207/144/483/733/original/eac633f18633c528.png
+[box464]: https://files.mastodon.social/accounts/avatars/109/259/207/144/483/733/original/7731027afdcab997.png
 [bryan]: https://cdn.masto.host/indwsocial/accounts/avatars/110/580/266/792/374/965/original/a5ebb63a1afee08d.png 
 [clovertalk]: https://files.mastodon.social/accounts/avatars/000/582/037/original/494e4b17bcb3c4b7.png
 [ctt]: https://media.social.lol/accounts/avatars/108/954/321/125/740/129/original/84403a59e48405ed.png
@@ -66,9 +66,9 @@ But of course **the club is open to all**. If you want to be listed too, just le
 [dimitry]: https://mastodon.nl/system/accounts/avatars/000/023/790/original/b767c95008c80506.png
 [esamecar]: https://media.social.lol/accounts/avatars/109/649/306/722/032/193/original/8f270484c6f09262.jpeg
 [furstenberg]: https://media.social.lol/accounts/avatars/109/292/070/545/845/589/original/78a6f3b0e8b70b91.png
-[gabz]: https://media.social.lol/accounts/avatars/108/760/770/273/788/281/original/629d5054fdd91c26.png
-[habib]: https://files.mastodon.social/accounts/avatars/109/670/583/684/319/565/original/e8f385bd748da9c2.png
-[hiro]: https://media.social.lol/accounts/avatars/110/313/991/960/773/003/original/d6fd8fd8e28e7590.png
+[gabz]: https://media.social.lol/accounts/avatars/108/760/770/273/788/281/original/0c31f9998bf4ff3f.png
+[habib]: https://files.mastodon.social/accounts/avatars/109/670/583/684/319/565/original/857e3e8f7f7e8564.png
+[hiro]: https://media.social.lol/accounts/avatars/110/313/991/960/773/003/original/b3b3aa06f42b9b13.png
 [lubieniebieski]: https://media.social.lol/accounts/avatars/109/714/665/825/852/984/original/6dd6320467f84a9a.png
 [itskevin]: https://media.social.lol/accounts/avatars/109/163/261/400/148/859/original/cc6096b6a12be5e2.jpg
 [maique]: https://media.social.lol/accounts/avatars/108/742/788/282/960/217/original/5a4106ac88653a34.jpeg
