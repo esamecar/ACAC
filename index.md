@@ -2,7 +2,7 @@
 
 | Avatar               | Name                                                       | Handle                         |
 | :------------------- | ---------------------------------------------------------- | ------------------------------ |
-| ![][adam]            | [Adam](https://social.lol/@adam)                           | @adam@social.lol               |
+|                      | [Adam](https://social.lol/@adam)                           | @adam@social.lol               |
 | ![][lubieniebieski]  | [Adam Nowak](https://social.lol/@lubieniebieski)           | @lubieniebieski@social.lol     |
 | ![][alexandra]       | [Alexandra](https://social.lol/@alexandra)                 | @alexandra@social.lol          |
 | ![][andrea]          | [Andrea](https://social.lol/@andreab)                      | @andreab@social.lol            |
