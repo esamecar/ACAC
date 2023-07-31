@@ -79,7 +79,7 @@ But of course **the club is open to all**. If you want to be listed too, just le
 [muhh]: https://media.social.lol/accounts/avatars/108/743/707/390/920/847/original/36a62d14e2c8c983.png
 [nicolas]: https://media.social.lol/accounts/avatars/109/641/133/331/377/829/original/2865d928e4c0b8cb.png
 [otaviocc]: https://media.social.lol/accounts/avatars/109/580/944/375/344/260/original/d588e0adfce614d5.png
-[purplelime]: https://files.mastodon.social/accounts/avatars/109/245/771/360/027/790/original/d34472f47d78f112.jpeg
+[purplelime]: https://files.mastodon.social/accounts/avatars/109/245/771/360/027/790/original/f39ab22cbd5e7f24.png
 [rameez]: https://media.social.lol/accounts/avatars/109/795/733/310/539/902/original/484fc6637a855f4e.png 
 [rb]: https://media.social.lol/accounts/avatars/109/183/893/220/853/776/original/f8afc7203b6084c9.png
 [sara]: https://media.social.lol/accounts/avatars/109/601/657/094/469/488/original/26e99f5c9a4cb172.jpg
