@@ -1,43 +1,43 @@
 # The Andy Carolan Avatar Club on Mastodon 🤘
 
-| Avatar               | Name                                                       | Handle                         |
-| :------------------- | ---------------------------------------------------------- | ------------------------------ |
-| ![][lubieniebieski]  | [Adam Nowak](https://social.lol/@lubieniebieski)           | @lubieniebieski@social.lol     |
-| ![][alexandra]       | [Alexandra](https://social.lol/@alexandra)                 | @alexandra@social.lol          |
-| ![][anders]          | [Anders Thoresson](https://thoresson.social/@anders)       | @anders@thoresson.social       |
-| ![][andrea]          | [Andrea](https://social.lol/@andreab)                      | @andreab@social.lol            |
-| ![][andyn]           | [Andy](https://social.lol/@andyn)                          | @andyn@social.lol              |
-| ![][andycarolan]     | [Andy Carolan](https://social.lol/@andycarolan)            | @andycarolan@social.lol        |
-| ![][anniegreens]     | [Apple Annie](https://social.lol/@anniegreens)             | @anniegreens@social.lol        |
-| ![][bryan]           | [Bryan](https://indw.social/@bryan)                        | @bryan@indw.social             |
-| ![][ctt]             | [David Johnson](https://social.lol/@ctt)                   | @ctt@social.lol                |
-| ![][didier]          | [Didier Malenfant](https://mastodon.gamedev.place/@didier) | @didier@mastodon.gamedev.place |
-| ![][dimitry]         | [DimitryJacobs](https://mastodon.nl/@DimitryJacobs)        | @DimitryJacobs@mastodon.nl     |
-| ![][thedadams]       | [Donnie Adams](https://appdot.net/@thedadams)              | @thedadams@appdot.net          |
-| ![][gabz]            | [gabz](https://social.lol/@gabz)                           | @gabz@social.lol               |
-| ![][habib]           | [Habib](https://mastodon.social/@habibcham)                | @habibcham@mastodon.social     |
-| ![][hiro]            | [Hiro](https://social.lol/@hiro)                           | @hiro@social.lol               |
-| ![][box464]          | [Jeff Sikes](https://mastodon.social/@box464)              | @box464@mastodon.social        |
-| ![][mph]             | [just mph](https://social.lol/@mph)                        | @mph@social.lol                |
-| ![][itskevin]        | [Kevin](https://social.lol/@itskevin)                      | @itskevin@social.lol           |
-| ![][thatkruegergirl] | [Kerri Ann](https://appdot.net/@thatkruegergirl)           | @thatkruegergirl@appdot.net    |
-| ![][atog]            | [Koen](https://social.lol/@atog)                           | @atog@social.lol               |
-| ![][maique]          | [maique](https://social.lol/@maique)                       | @maique@social.lol             |
-| ![][esamecar]        | [Marco](https://social.lol/@esamecar)                      | @esamecar@social.lol           |
-| ![][muhh]            | [Markus](https://social.lol/@muhh)                         | @muhh@social.lol               |
-| ![][clovertalk]      | [Matthew Clover](https://mastodon.social/@clovertalk)      | @clovertalk@mastodon.social    |
-| ![][mihobu]          | [Michael](https://social.lol/@mihobu)                      | @mihobu@social.lol             |
-| ![][furstenberg]     | [Michael Fürstenberg](https://social.lol/@furstenberg)     | @furstenberg@social.lol        |
-| ![][nicolas]         | [Nicolas Cropp](https://social.lol/@nicolas)               | @nicolas@social.lol            |
-| ![][otaviocc]        | [Otávio](https://social.lol/@otaviocc)                     | @otaviocc@social.lol           |
-| ![][rameez]          | [rameez](https://social.lol/@rameez)                       | @rameez@social.lol             |
-| ![][rb]              | [rb](https://social.lol/@rb)                               | @rb@social.lol                 |
-| ![][purplelime]      | [Sam](https://mastodon.social/@purplelime)                 | @purplelime@mastodon.social    |
-| ![][sara]            | [Sara Joy](https://front-end.social/@sarajw)               | @sarajw@front-end.social       |
-| ![][sed]             | [sed](https://social.lol/@sed)                             | @sed@social.lol                |
-| ![][skoobz]          | [Skoo.bz](https://social.lol/@skoobz)                      | @skoobz@social.lol             |
-| ![][tekphloyd]       | [tekphloyd](https://social.lol/@tekphloyd)                 | @tekphloyd@social.lol          |
-| ![][william]         | [William](https://social.lol/@william)                     | @william@social.lol            |
+| Avatar               | Name                                                   | Handle                      |
+| :------------------- | ------------------------------------------------------ | --------------------------- |
+| ![][lubieniebieski]  | [Adam Nowak](https://social.lol/@lubieniebieski)       | @lubieniebieski@social.lol  |
+| ![][alexandra]       | [Alexandra](https://social.lol/@alexandra)             | @alexandra@social.lol       |
+| ![][anders]          | [Anders Thoresson](https://thoresson.social/@anders)   | @anders@thoresson.social    |
+| ![][andrea]          | [Andrea](https://social.lol/@andreab)                  | @andreab@social.lol         |
+| ![][andyn]           | [Andy](https://social.lol/@andyn)                      | @andyn@social.lol           |
+| ![][andycarolan]     | [Andy Carolan](https://social.lol/@andycarolan)        | @andycarolan@social.lol     |
+| ![][anniegreens]     | [Apple Annie](https://social.lol/@anniegreens)         | @anniegreens@social.lol     |
+| ![][bryan]           | [Bryan](https://indw.social/@bryan)                    | @bryan@indw.social          |
+| ![][ctt]             | [David Johnson](https://social.lol/@ctt)               | @ctt@social.lol             |
+| ![][didier]          | [Didier Malenfant](https://malenfant.net/@didier)      | @didier@malenfant.net       |
+| ![][dimitry]         | [DimitryJacobs](https://mastodon.nl/@DimitryJacobs)    | @DimitryJacobs@mastodon.nl  |
+| ![][thedadams]       | [Donnie Adams](https://appdot.net/@thedadams)          | @thedadams@appdot.net       |
+| ![][gabz]            | [gabz](https://social.lol/@gabz)                       | @gabz@social.lol            |
+| ![][habib]           | [Habib](https://mastodon.social/@habibcham)            | @habibcham@mastodon.social  |
+| ![][hiro]            | [Hiro](https://social.lol/@hiro)                       | @hiro@social.lol            |
+| ![][box464]          | [Jeff Sikes](https://mastodon.social/@box464)          | @box464@mastodon.social     |
+| ![][mph]             | [just mph](https://social.lol/@mph)                    | @mph@social.lol             |
+| ![][itskevin]        | [Kevin](https://social.lol/@itskevin)                  | @itskevin@social.lol        |
+| ![][thatkruegergirl] | [Kerri Ann](https://appdot.net/@thatkruegergirl)       | @thatkruegergirl@appdot.net |
+| ![][atog]            | [Koen](https://social.lol/@atog)                       | @atog@social.lol            |
+| ![][maique]          | [maique](https://social.lol/@maique)                   | @maique@social.lol          |
+| ![][esamecar]        | [Marco](https://social.lol/@esamecar)                  | @esamecar@social.lol        |
+| ![][muhh]            | [Markus](https://social.lol/@muhh)                     | @muhh@social.lol            |
+| ![][clovertalk]      | [Matthew Clover](https://mastodon.social/@clovertalk)  | @clovertalk@mastodon.social |
+| ![][mihobu]          | [Michael](https://social.lol/@mihobu)                  | @mihobu@social.lol          |
+| ![][furstenberg]     | [Michael Fürstenberg](https://social.lol/@furstenberg) | @furstenberg@social.lol     |
+| ![][nicolas]         | [Nicolas Cropp](https://social.lol/@nicolas)           | @nicolas@social.lol         |
+| ![][otaviocc]        | [Otávio](https://social.lol/@otaviocc)                 | @otaviocc@social.lol        |
+| ![][rameez]          | [rameez](https://social.lol/@rameez)                   | @rameez@social.lol          |
+| ![][rb]              | [rb](https://social.lol/@rb)                           | @rb@social.lol              |
+| ![][purplelime]      | [Sam](https://mastodon.social/@purplelime)             | @purplelime@mastodon.social |
+| ![][sara]            | [Sara Joy](https://front-end.social/@sarajw)           | @sarajw@front-end.social    |
+| ![][sed]             | [sed](https://social.lol/@sed)                         | @sed@social.lol             |
+| ![][skoobz]          | [Skoo.bz](https://social.lol/@skoobz)                  | @skoobz@social.lol          |
+| ![][tekphloyd]       | [tekphloyd](https://social.lol/@tekphloyd)             | @tekphloyd@social.lol       |
+| ![][william]         | [William](https://social.lol/@william)                 | @william@social.lol         |
 
 ## Welcome
 
