@@ -4,6 +4,7 @@
 | :------------------- | ---------------------------------------------------------- | ------------------------------ |
 | ![][lubieniebieski]  | [Adam Nowak](https://social.lol/@lubieniebieski)           | @lubieniebieski@social.lol     |
 | ![][alexandra]       | [Alexandra](https://social.lol/@alexandra)                 | @alexandra@social.lol          |
+| ![][anders]          | [Anders Thoresson](https://thoresson.social/@anders)       | @anders@thoresson.social       |
 | ![][andrea]          | [Andrea](https://social.lol/@andreab)                      | @andreab@social.lol            |
 | ![][andyn]           | [Andy](https://social.lol/@andyn)                          | @andyn@social.lol              |
 | ![][andycarolan]     | [Andy Carolan](https://social.lol/@andycarolan)            | @andycarolan@social.lol        |
@@ -53,6 +54,7 @@ But of course **the club is open to all**. If you want to be listed too, just le
 <a rel="me" href="https://mastodon.social/@acac"></a>
 
 [alexandra]: https://media.social.lol/accounts/avatars/109/779/067/294/172/527/original/43e9da0aa4cd309c.png
+[anders]: https://thoresson.social/system/accounts/avatars/109/420/235/389/505/928/original/0af55d8e1e782345.png
 [andrea]: https://media.social.lol/accounts/avatars/109/789/892/022/936/666/original/98dd82476fee7f09.png
 [andycarolan]: https://media.social.lol/accounts/avatars/109/381/075/265/447/863/original/76a3984008dc86e2.png
 [andyn]: https://media.social.lol/accounts/avatars/108/760/748/212/181/750/original/7470d96dcc3b94a7.jpeg
