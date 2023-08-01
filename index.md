@@ -23,7 +23,7 @@
 | ![][thatkruegergirl] | [Kerri Ann](https://appdot.net/@thatkruegergirl)       | @thatkruegergirl@appdot.net |
 | ![][atog]            | [Koen](https://social.lol/@atog)                       | @atog@social.lol            |
 | ![][maique]          | [maique](https://social.lol/@maique)                   | @maique@social.lol          |
-| ![](./PFP/marco.jpg)        | [Marco](https://social.lol/@esamecar)                  | @esamecar@social.lol        |
+| ![](./pfp/marco.jpg) | [Marco](https://social.lol/@esamecar)                  | @esamecar@social.lol        |
 | ![][muhh]            | [Markus](https://social.lol/@muhh)                     | @muhh@social.lol            |
 | ![][clovertalk]      | [Matthew Clover](https://mastodon.social/@clovertalk)  | @clovertalk@mastodon.social |
 | ![][mihobu]          | [Michael](https://social.lol/@mihobu)                  | @mihobu@social.lol          |
@@ -66,7 +66,6 @@ But of course **the club is open to all**. If you want to be listed too, just le
 [ctt]: https://media.social.lol/accounts/avatars/108/954/321/125/740/129/original/84403a59e48405ed.png
 [didier]: https://cdn.masto.host/mastodongamedevplace/accounts/avatars/109/380/881/617/106/122/original/c6a1d561428625e2.png
 [dimitry]: https://mastodon.nl/system/accounts/avatars/000/023/790/original/b767c95008c80506.png
-[esamecar]: https://github.com/esamecar/ACAC/blob/main/PFP/marco%20-%208f270484c6f09262.jpg?raw=true
 [furstenberg]: https://media.social.lol/accounts/avatars/109/292/070/545/845/589/original/78a6f3b0e8b70b91.png
 [gabz]: https://media.social.lol/accounts/avatars/108/760/770/273/788/281/original/0c31f9998bf4ff3f.png
 [habib]: https://files.mastodon.social/accounts/avatars/109/670/583/684/319/565/original/857e3e8f7f7e8564.png
