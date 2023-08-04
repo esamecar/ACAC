@@ -51,7 +51,7 @@ So I couldn't help but set up this little site and add all the people I follow o
 
 But of course **the club is open to all**. If you want to be listed too, just let me know. The opposite is also true, of course: Let [me](https://esamecar.omg.lol) know if you want me to remove your profile!
 
-<a rel="me" href="https://mastodon.social/@acac"></a>
+<a rel="me" href="https://mastodon.social/@acac"></a> <a rel="me" href="https://social.lol/@esamecar"></a>
 
 [alexandra]: https://media.social.lol/accounts/avatars/109/779/067/294/172/527/original/43e9da0aa4cd309c.png
 [anders]: https://thoresson.social/system/accounts/avatars/109/420/235/389/505/928/original/0af55d8e1e782345.png
