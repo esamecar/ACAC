@@ -61,7 +61,7 @@ But of course **the club is open to all**. If you want to be listed too, just le
 [anniegreens]: https://media.social.lol/accounts/avatars/109/736/944/131/488/938/original/72b3a053b5a0a03f.png
 [atog]: https://media.social.lol/accounts/avatars/110/304/443/905/917/313/original/ef9009c2c2fd3449.jpeg
 [box464]: https://files.mastodon.social/accounts/avatars/109/259/207/144/483/733/original/7731027afdcab997.png
-[bryan]: https://github.com/esamecar/ACAC/blob/main/PFP/bryan.png?raw=true
+[bryan]: https://cdn.masto.host/indwsocial/accounts/avatars/110/580/266/792/374/965/original/cacea0c9aa7c0592.jpeg
 [clovertalk]: https://files.mastodon.social/accounts/avatars/000/582/037/original/494e4b17bcb3c4b7.png
 [ctt]: https://media.social.lol/accounts/avatars/108/954/321/125/740/129/original/84403a59e48405ed.png
 [didier]: https://cdn.masto.host/mastodongamedevplace/accounts/avatars/109/380/881/617/106/122/original/c6a1d561428625e2.png
@@ -73,7 +73,7 @@ But of course **the club is open to all**. If you want to be listed too, just le
 [lubieniebieski]: https://media.social.lol/accounts/avatars/109/714/665/825/852/984/original/6dd6320467f84a9a.png
 [itskevin]: https://media.social.lol/accounts/avatars/109/163/261/400/148/859/original/cc6096b6a12be5e2.jpg
 [maique]: https://media.social.lol/accounts/avatars/108/742/788/282/960/217/original/5a4106ac88653a34.jpeg
-[mihobu]: https://media.social.lol/accounts/avatars/109/619/824/930/798/742/original/ea1b0f3b673e134c.png
+[mihobu]: https://media.social.lol/accounts/avatars/109/619/824/930/798/742/original/c4be256d9cd6a6c8.png
 [mph]: https://media.social.lol/accounts/avatars/109/195/238/432/596/200/original/23b4d47286c2a8f0.jpeg
 [muhh]: https://media.social.lol/accounts/avatars/108/743/707/390/920/847/original/36a62d14e2c8c983.png
 [nicolas]: https://media.social.lol/accounts/avatars/109/641/133/331/377/829/original/2865d928e4c0b8cb.png
@@ -86,6 +86,6 @@ But of course **the club is open to all**. If you want to be listed too, just le
 [sed]: https://media.social.lol/accounts/avatars/109/641/934/728/090/653/original/c6818d1e5f1d8030.png
 [tekphloyd]: https://media.social.lol/accounts/avatars/109/269/705/863/044/046/original/38f4d62242bdc29c.jpeg
 [thedadams]: https://cdn.masto.host/appdotnet/accounts/avatars/109/545/713/229/607/245/original/1a71668eb91937f7.png
-[thatkruegergirl]: https://cdn.masto.host/appdotnet/accounts/avatars/108/194/004/311/697/720/original/8f0d921628bf122f.png
+[thatkruegergirl]: https://cdn.masto.host/appdotnet/accounts/avatars/108/194/004/311/697/720/original/956074e0987c082e.png
 [william]: https://media.social.lol/accounts/avatars/110/625/401/031/486/117/original/12e316ca2a55d237.png
 
