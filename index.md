@@ -19,7 +19,7 @@
 | ![][habib]               | [Habib](https://mastodon.social/@habibcham)            | @habibcham@mastodon.social  |
 | ![][hiro]                | [Hiro](https://social.lol/@hiro)                       | @hiro@social.lol            |
 | ![](./pfp/itsfleee.png)  | [Jason](https://mastodon.social/@itsfleee)             | @itsfleee@mastodon.social   |
-| ![][box464]              | [Jeff Sikes](https://mastodon.social/@box464)          | @box464@mastodon.social     |
+| ![](./pfp/box464.png)    | [Jeff Sikes](https://mastodon.social/@box464)          | @box464@mastodon.social     |
 | ![][mph]                 | [just mph](https://social.lol/@mph)                    | @mph@social.lol             |
 | ![][itskevin]            | [Kevin](https://social.lol/@itskevin)                  | @itskevin@social.lol        |
 | ![][thatkruegergirl]     | [Kerri Ann](https://appdot.net/@thatkruegergirl)       | @thatkruegergirl@appdot.net |
@@ -62,7 +62,6 @@ But of course **the club is open to all**. If you want to be listed too, just le
 [andyn]: https://media.social.lol/accounts/avatars/108/760/748/212/181/750/original/7470d96dcc3b94a7.jpeg
 [anniegreens]: https://media.social.lol/accounts/avatars/109/736/944/131/488/938/original/72b3a053b5a0a03f.png
 [atog]: https://media.social.lol/accounts/avatars/110/304/443/905/917/313/original/ef9009c2c2fd3449.jpeg
-[box464]: https://files.mastodon.social/accounts/avatars/109/259/207/144/483/733/original/7731027afdcab997.png
 [bryan]: https://cdn.masto.host/indwsocial/accounts/avatars/110/580/266/792/374/965/original/cacea0c9aa7c0592.jpeg
 [clovertalk]: https://files.mastodon.social/accounts/avatars/000/582/037/original/494e4b17bcb3c4b7.png
 [ctt]: https://media.social.lol/accounts/avatars/108/954/321/125/740/129/original/84403a59e48405ed.png
