@@ -18,6 +18,7 @@
 | ![][gabz]                 | [gabz](https://social.lol/@gabz)                       | @gabz@social.lol            |
 | ![](./pfp/habib.png)      | [Habib](https://mastodon.social/@habibcham)            | @habibcham@mastodon.social  |
 | ![][hiro]                 | [Hiro](https://social.lol/@hiro)                       | @hiro@social.lol            |
+| ![](./pfp/humdrum.jpeg)   | [humdrum](https://social.lol/@humdrum)                 | @humdrum@social.lol         |
 | ![](./pfp/itsfleee.png)   | [Jason](https://mastodon.social/@itsfleee)             | @itsfleee@mastodon.social   |
 | ![](./pfp/box464.png)     | [Jeff Sikes](https://mastodon.social/@box464)          | @box464@mastodon.social     |
 | ![][mph]                  | [just mph](https://social.lol/@mph)                    | @mph@social.lol             |
