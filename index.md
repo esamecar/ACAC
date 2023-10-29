@@ -28,6 +28,7 @@
 | ![][maique]               | [maique](https://social.lol/@maique)                   | @maique@social.lol          |
 | ![](./pfp/marco.jpg)      | [Marco](https://social.lol/@esamecar)                  | @esamecar@social.lol        |
 | ![][muhh]                 | [Markus](https://social.lol/@muhh)                     | @muhh@social.lol            |
+| ![](./pfp/martin.png)     | [Martin Schuhmann](https://social.lol/@martin)         | @martin@social.lol          |
 | ![][clovertalk]           | [Matthew Clover](https://mastodon.social/@clovertalk)  | @clovertalk@mastodon.social |
 | ![][mihobu]               | [Michael](https://social.lol/@mihobu)                  | @mihobu@social.lol          |
 | ![][furstenberg]          | [Michael Fürstenberg](https://social.lol/@furstenberg) | @furstenberg@social.lol     |
