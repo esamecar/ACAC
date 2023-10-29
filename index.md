@@ -32,6 +32,7 @@
 | ![][clovertalk]                | [Matthew Clover](https://mastodon.social/@clovertalk)  | @clovertalk@mastodon.social |
 | ![][mihobu]                    | [Michael](https://social.lol/@mihobu)                  | @mihobu@social.lol          |
 | ![][furstenberg]               | [Michael Fürstenberg](https://social.lol/@furstenberg) | @furstenberg@social.lol     |
+| ![](./pfp/vmstan.png)          | [Michael Stanclift](https://vmst.io/@vmstan)           | @vmstan@vmst.io             |
 | ![](./pfp/nicolas.png)         | [Nicolas Cropp](https://social.lol/@nicolas)           | @nicolas@social.lol         |
 | ![][otaviocc]                  | [Otávio](https://social.lol/@otaviocc)                 | @otaviocc@social.lol        |
 | ![][rameez]                    | [rameez](https://social.lol/@rameez)                   | @rameez@social.lol          |
