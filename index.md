@@ -15,7 +15,7 @@
 | ![](./pfp/dimitry.png)         | [DimitryJacobs](https://mastodon.nl/@DimitryJacobs)    | @DimitryJacobs@mastodon.nl  |
 | ![][thedadams]                 | [Donnie Adams](https://appdot.net/@thedadams)          | @thedadams@appdot.net       |
 | ![](./pfp/ericmwalk.png)       | [Eric](https://social.lol/@ericmwalk)                  | @ericmwalk@social.lol       |
-| ![](.pfp/gabz.png)             | [gabz](https://social.lol/@gabz)                       | @gabz@social.lol            |
+| ![](./pfp/gabz.png)            | [gabz](https://social.lol/@gabz)                       | @gabz@social.lol            |
 | ![](./pfp/habib.png)           | [Habib](https://mastodon.social/@habibcham)            | @habibcham@mastodon.social  |
 | ![][hiro]                      | [Hiro](https://social.lol/@hiro)                       | @hiro@social.lol            |
 | ![](./pfp/humdrum.jpeg)        | [humdrum](https://social.lol/@humdrum)                 | @humdrum@social.lol         |
